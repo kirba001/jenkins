@@ -1,5 +1,1 @@
 print("Hello from Jenkins automation!")
-print("Changes Made")
-print("2 nd change Made")
-print("3rd change Made")
-print("4th Change Made")
