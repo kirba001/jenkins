@@ -9,3 +9,5 @@ print("Test6")
 print("Test7")
 print("added a jekins user")
 print("Some changed made in jenkins")
+print("new mail added to jenkins")
+
